@@ -6,7 +6,7 @@
     <tr>
       <th style="text-align:left;">Problem</th>
       <th style="text-align:center;">C++ Solution</th>
-      <th style="text-align:center;">Python Solution</th>
+      <th style="text-align:center;">Python3 Solution</th>
     </tr>
   </thead>
   <tbody>
