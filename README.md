@@ -1,13 +1,104 @@
-# DSA Solutions
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>DSA Solutions Repository</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      color: #333;
+      max-width: 900px;
+      margin: auto;
+      padding: 20px;
+    }
+    h1, h2, h3 {
+      color: #1e3a8a;
+    }
+    a {
+      color: #2563eb;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    ul {
+      list-style-type: disc;
+      margin-left: 20px;
+    }
+    pre {
+      background: #f3f4f6;
+      padding: 10px;
+      border-radius: 5px;
+      overflow-x: auto;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 20px 0;
+    }
+    th, td {
+      border: 1px solid #ddd;
+      padding: 10px;
+    }
+    th {
+      background-color: #f3f4f6;
+      text-align: left;
+    }
+    tr:nth-child(even) {
+      background-color: #fafafa;
+    }
+    .section {
+      margin-bottom: 30px;
+    }
+    .footer {
+      margin-top: 40px;
+      font-size: 0.9em;
+      color: #555;
+    }
+  </style>
+</head>
+<body>
 
-Welcome to my **DSA Solutions Repository**!  
-This repository contains implementations of various **Data Structures & Algorithms** problems in multiple programming languages.
+  <h1>DSA Solutions Repository</h1>
 
-## Categories
+  <div class="section">
+    <p>Welcome to my <strong>DSA Solutions Repository</strong>! This repository contains implementations of various <strong>Data Structures & Algorithms</strong> problems in multiple programming languages.</p>
+  </div>
 
-- [Arrays](./Arrays/README.md)
-<!-- - [Linked Lists](./LinkedLists/README.md)
-- [Trees](./Trees/README.md)
-- [Graphs](./Graphs/README.md) -->
+  <div class="section">
+    <h2>Categories</h2>
+    <ul>
+      <li><a href="./Arrays/README.md">Arrays</a></li>
+      <!-- <li><a href="./LinkedLists/README.md">Linked Lists</a></li>
+      <li><a href="./Trees/README.md">Trees</a></li>
+      <li><a href="./Graphs/README.md">Graphs</a></li> -->
+    </ul>
+    <p>Feel free to explore the solutions and contribute!</p>
+  </div>
 
-Feel free to explore the solutions and contribute!
+  <div class="section">
+    <h2>Contributing</h2>
+    <p>If you want to contribute, please follow these steps:</p>
+    <ol>
+      <li>Fork the repository.</li>
+      <li>Create a branch: <pre>git checkout -b feature/problem-name</pre></li>
+      <li>Add your solution in the correct folder (Arrays, LinkedLists, Trees, etc.).</li>
+      <li>Update the category README with your solution and problem link.</li>
+      <li>Commit changes: <pre>git commit -m 'Add Problem Name solution'</pre></li>
+      <li>Push to the branch: <pre>git push origin feature/problem-name</pre></li>
+      <li>Open a Pull Request.</li>
+    </ol>
+  </div>
+
+  <div class="section">
+    <h2>Connect</h2>
+    <p>For tutorials and DSA guidance, check out my YouTube channel: <a href="https://www.youtube.com/@code-with-vishal" target="_blank">@code-with-vishal</a></p>
+  </div>
+
+  <div class="footer">
+    <p>&copy; 2025 DSA Solutions Repository. All rights reserved.</p>
+  </div>
+
+</body>
+</html>
