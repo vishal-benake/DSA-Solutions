@@ -1,65 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>DSA Solutions Repository</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      color: #333;
-      max-width: 900px;
-      margin: auto;
-      padding: 20px;
-    }
-    h1, h2, h3 {
-      color: #1e3a8a;
-    }
-    a {
-      color: #2563eb;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-    ul {
-      list-style-type: disc;
-      margin-left: 20px;
-    }
-    pre {
-      background: #f3f4f6;
-      padding: 10px;
-      border-radius: 5px;
-      overflow-x: auto;
-    }
-    table {
-      width: 100%;
-      border-collapse: collapse;
-      margin: 20px 0;
-    }
-    th, td {
-      border: 1px solid #ddd;
-      padding: 10px;
-    }
-    th {
-      background-color: #f3f4f6;
-      text-align: left;
-    }
-    tr:nth-child(even) {
-      background-color: #fafafa;
-    }
-    .section {
-      margin-bottom: 30px;
-    }
-    .footer {
-      margin-top: 40px;
-      font-size: 0.9em;
-      color: #555;
-    }
-  </style>
-</head>
-<body>
-
   <h1>DSA Solutions Repository</h1>
 
   <div class="section">
@@ -100,5 +38,3 @@
     <p>&copy; 2025 DSA Solutions Repository. All rights reserved.</p>
   </div>
 
-</body>
-</html>
