@@ -35,6 +35,6 @@
   </div>
 
   <div class="footer">
-    <p>&copy; 2025 DSA Solutions Repository. All rights reserved.</p>
+    <p>&copy; 2026 DSA Solutions Repository. All rights reserved.</p>
   </div>
 
