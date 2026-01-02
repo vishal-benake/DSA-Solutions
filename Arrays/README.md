@@ -22,6 +22,12 @@ with the core <b>pattern</b> used in each solution.
       <td style="text-align:center;"><a href="./MoveZeroes.py">View</a></td>
     </tr>
     <tr>
+      <td style="text-align:left;">Remove Duplicates</td>
+      <td style="text-align:center;">Two Pointers (In-place)</td>
+      <td style="text-align:center;"><a href="./removeDuplicates.cpp">View</a></td>
+      <td style="text-align:center;"><a href="./removeDuplicates.py">View</a></td>
+    </tr>
+    <tr>
       <td style="text-align:left;">Majority Element</td>
       <td style="text-align:center;">Voting (Boyer–Moore)</td>
       <td style="text-align:center;"><a href="./MajorityElement.cpp">View</a></td>
