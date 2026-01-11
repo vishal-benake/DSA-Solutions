@@ -33,6 +33,12 @@ with the core <b>pattern</b> used in each solution.
       <td style="text-align:center;"><a href="./MajorityElement.cpp">View</a></td>
       <td style="text-align:center;"><a href="./MajorityElement.py">View</a></td>
     </tr>
+    <tr>
+      <td style="text-align:left;">Best Time to Buy and Sell Stock</td>
+      <td style="text-align:center;">Greedy</td>
+      <td style="text-align:center;"><a href="./Best_Time_to_Buy_and_Sell_Stock.cpp">View</a></td>
+      <td style="text-align:center;"><a href="./Best_Time_to_Buy_and_Sell_Stock.py">View</a></td>
+    </tr>
   </tbody>
 </table>
 
