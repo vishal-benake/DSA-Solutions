@@ -18,26 +18,26 @@ with the core <b>pattern</b> used in each solution.
     <tr>
       <td style="text-align:left;">Move Zeroes</td>
       <td style="text-align:center;">Two Pointers (In-place)</td>
-      <td style="text-align:center;"><a href="./Move_Zeroes.cpp">View</a></td>
-      <td style="text-align:center;"><a href="./Move_Zeroes.py">View</a></td>
+      <td style="text-align:center;"><a href="./Solutions/Move_Zeroes.cpp">View</a></td>
+      <td style="text-align:center;"><a href="./Solutions/Move_Zeroes.py">View</a></td>
     </tr>
     <tr>
       <td style="text-align:left;">Remove Duplicates</td>
       <td style="text-align:center;">Two Pointers (In-place)</td>
-      <td style="text-align:center;"><a href="./Remove_Duplicates.cpp">View</a></td>
-      <td style="text-align:center;"><a href="./Remove_Duplicates.py">View</a></td>
+      <td style="text-align:center;"><a href="./Solutions/Remove_Duplicates.cpp">View</a></td>
+      <td style="text-align:center;"><a href="./Solutions/Remove_Duplicates.py">View</a></td>
     </tr>
     <tr>
       <td style="text-align:left;">Majority Element</td>
       <td style="text-align:center;">Voting (Boyer–Moore)</td>
-      <td style="text-align:center;"><a href="./Majority_Element.cpp">View</a></td>
-      <td style="text-align:center;"><a href="./Majority_Element.py">View</a></td>
+      <td style="text-align:center;"><a href="./Solutions/Majority_Element.cpp">View</a></td>
+      <td style="text-align:center;"><a href="./Solutions/Majority_Element.py">View</a></td>
     </tr>
     <tr>
       <td style="text-align:left;">Best Time to Buy and Sell Stock</td>
       <td style="text-align:center;">Greedy</td>
-      <td style="text-align:center;"><a href="./Best_Time_to_Buy_and_Sell_Stock.cpp">View</a></td>
-      <td style="text-align:center;"><a href="./Best_Time_to_Buy_and_Sell_Stock.py">View</a></td>
+      <td style="text-align:center;"><a href="./Solutions/Best_Time_to_Buy_and_Sell_Stock.cpp">View</a></td>
+      <td style="text-align:center;"><a href="./Solutions/Best_Time_to_Buy_and_Sell_Stock.py">View</a></td>
     </tr>
   </tbody>
 </table>
@@ -56,14 +56,14 @@ with the core <b>pattern</b> used in each solution.
     <tr>
       <td style="text-align:left;">Count Special Triplets</td>
       <td style="text-align:center;">Hashing + Prefix</td>
-      <td style="text-align:center;"><a href="./Count_Special_Triplets.cpp">View</a></td>
-      <td style="text-align:center;"><a href="./Count_Special_Triplets.py">View</a></td>
+      <td style="text-align:center;"><a href="./Solutions/Count_Special_Triplets.cpp">View</a></td>
+      <td style="text-align:center;"><a href="./Solutions/Count_Special_Triplets.py">View</a></td>
     </tr>
     <tr>
       <td style="text-align:left;">Product of Array Except Self</td>
       <td style="text-align:center;">Prefix & Suffix Product</td>
-      <td style="text-align:center;"><a href="./Product_of_Array_Except_Self.cpp">View</a></td>
-      <td style="text-align:center;"><a href="./Product_of_Array_Except_Self.py">View</a></td>
+      <td style="text-align:center;"><a href="./Solutions/Product_of_Array_Except_Self.cpp">View</a></td>
+      <td style="text-align:center;"><a href="./Solutions/Product_of_Array_Except_Self.py">View</a></td>
     </tr>
   </tbody>
 </table>
