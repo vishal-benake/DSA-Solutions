@@ -39,6 +39,12 @@ with the core <b>pattern</b> used in each solution.
       <td style="text-align:center;"><a href="./Solutions/Best_Time_to_Buy_and_Sell_Stock.cpp">View</a></td>
       <td style="text-align:center;"><a href="./Solutions/Best_Time_to_Buy_and_Sell_Stock.py">View</a></td>
     </tr>
+    <tr>
+      <td style="text-align:left;">Minimum Time Visiting All Points</td>
+      <td style="text-align:center;">Greedy (Chebyshev Distance)</td>
+      <td style="text-align:center;"><a href="./Solutions/Minimum_Time_Visiting_All_Points.cpp">View</a></td>
+      <td style="text-align:center;"><a href="./Solutions/Minimum_Time_Visiting_All_Points.py">View</a></td>
+    </tr>
   </tbody>
 </table>
 
