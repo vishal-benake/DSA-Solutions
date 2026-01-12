@@ -18,20 +18,20 @@ with the core <b>pattern</b> used in each solution.
     <tr>
       <td style="text-align:left;">Move Zeroes</td>
       <td style="text-align:center;">Two Pointers (In-place)</td>
-      <td style="text-align:center;"><a href="./MoveZeroes.cpp">View</a></td>
-      <td style="text-align:center;"><a href="./MoveZeroes.py">View</a></td>
+      <td style="text-align:center;"><a href="./Move_Zeroes.cpp">View</a></td>
+      <td style="text-align:center;"><a href="./Move_Zeroes.py">View</a></td>
     </tr>
     <tr>
       <td style="text-align:left;">Remove Duplicates</td>
       <td style="text-align:center;">Two Pointers (In-place)</td>
-      <td style="text-align:center;"><a href="./removeDuplicates.cpp">View</a></td>
-      <td style="text-align:center;"><a href="./removeDuplicates.py">View</a></td>
+      <td style="text-align:center;"><a href="./remove_Duplicates.cpp">View</a></td>
+      <td style="text-align:center;"><a href="./remove_Duplicates.py">View</a></td>
     </tr>
     <tr>
       <td style="text-align:left;">Majority Element</td>
       <td style="text-align:center;">Voting (Boyer–Moore)</td>
-      <td style="text-align:center;"><a href="./MajorityElement.cpp">View</a></td>
-      <td style="text-align:center;"><a href="./MajorityElement.py">View</a></td>
+      <td style="text-align:center;"><a href="./Majority_Element.cpp">View</a></td>
+      <td style="text-align:center;"><a href="./Majority_Element.py">View</a></td>
     </tr>
     <tr>
       <td style="text-align:left;">Best Time to Buy and Sell Stock</td>
@@ -56,8 +56,14 @@ with the core <b>pattern</b> used in each solution.
     <tr>
       <td style="text-align:left;">Count Special Triplets</td>
       <td style="text-align:center;">Hashing + Prefix</td>
-      <td style="text-align:center;"><a href="./CountSpecialTriplets.cpp">View</a></td>
-      <td style="text-align:center;"><a href="./CountSpecialTriplets.py">View</a></td>
+      <td style="text-align:center;"><a href="./Count_Special_Triplets.cpp">View</a></td>
+      <td style="text-align:center;"><a href="./Count_Special_Triplets.py">View</a></td>
+    </tr>
+    <tr>
+      <td style="text-align:left;">Product of Array Except Self</td>
+      <td style="text-align:center;">Prefix & Suffix Product</td>
+      <td style="text-align:center;"><a href="./Product_of_Array_Except_Self.cpp">View</a></td>
+      <td style="text-align:center;"><a href="./Product_of_Array_Except_Self.py">View</a></td>
     </tr>
   </tbody>
 </table>
