@@ -24,8 +24,8 @@ with the core <b>pattern</b> used in each solution.
     <tr>
       <td style="text-align:left;">Remove Duplicates</td>
       <td style="text-align:center;">Two Pointers (In-place)</td>
-      <td style="text-align:center;"><a href="./remove_Duplicates.cpp">View</a></td>
-      <td style="text-align:center;"><a href="./remove_Duplicates.py">View</a></td>
+      <td style="text-align:center;"><a href="./Remove_Duplicates.cpp">View</a></td>
+      <td style="text-align:center;"><a href="./Remove_Duplicates.py">View</a></td>
     </tr>
     <tr>
       <td style="text-align:left;">Majority Element</td>
