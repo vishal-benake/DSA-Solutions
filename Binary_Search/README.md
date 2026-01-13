@@ -46,6 +46,6 @@ with the core <b>pattern</b> used in each solution.
 </table>
 
 <h3>🔴 Hard</h3>
-<p>No hard array problems added yet.</p>
+<p>No hard Binary Search problems added yet.</p>
 
 <p><a href="../README.md">Back to Main Page</a></p>
