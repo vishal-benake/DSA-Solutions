@@ -1,6 +1,6 @@
-<h2>Binary Search</h2>
+<h2>Sweep Line</h2>
 <p>
-Binary Search problems grouped by <b>difficulty</b>,
+Sweep Line problems grouped by <b>difficulty</b>,
 with the core <b>pattern</b> used in each solution.
 </p>
 
