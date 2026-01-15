@@ -71,6 +71,13 @@ with the core <b>pattern</b> used in each solution.
       <td style="text-align:center;"><a href="./Solutions/Product_of_Array_Except_Self.cpp">View</a></td>
       <td style="text-align:center;"><a href="./Solutions/Product_of_Array_Except_Self.py">View</a></td>
     </tr>
+    <tr>
+      <td style="text-align:left;">Maximize Area of Square Hole in Grid</td>
+      <td style="text-align:center;">Sorting + Longest Consecutive Sequence</td>
+      <td style="text-align:center;"><a href="./Solutions/Maximize_Area_of_Square_Hole.cpp">View</a></td>
+      <td style="text-align:center;"><a href="./Solutions/Maximize_Area_of_Square_Hole.py">View</a></td>
+    </tr>
+
   </tbody>
 </table>
 
