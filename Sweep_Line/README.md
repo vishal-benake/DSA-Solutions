@@ -8,7 +8,25 @@ with the core <b>pattern</b> used in each solution.
 <p>No Easy Sweep Line problems added yet.</p>
 
 <h3>🟡 Medium</h3>
-<p>No Medium Sweep Line problems added yet.</p>
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left;">Problem</th>
+      <th style="text-align:center;">Pattern / Technique</th>
+      <th style="text-align:center;">C++</th>
+      <th style="text-align:center;">Python</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left;">Maximum Square Area by Removing Fences From a Field</td>
+      <td style="text-align:center;">Sweep Line (Static), Geometry, Hashing</td>
+      <td style="text-align:center;"><a href="./Solutions/Maximum_Square_Area_by_Removing_Fences_From_Field.cpp">View</a></td>
+      <td style="text-align:center;"><a href="./Solutions/Maximum_Square_Area_by_Removing_Fences_From_Field.py">View</a></td>
+    </tr>
+  </tbody>
+</table>
+
 
 <h3>🔴 Hard</h3>
 <table>
