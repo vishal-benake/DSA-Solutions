@@ -77,7 +77,12 @@ with the core <b>pattern</b> used in each solution.
       <td style="text-align:center;"><a href="./Solutions/Maximize_Area_of_Square_Hole.cpp">View</a></td>
       <td style="text-align:center;"><a href="./Solutions/Maximize_Area_of_Square_Hole.py">View</a></td>
     </tr>
-
+    <tr>
+      <td style="text-align:left;">Largest Magic Square</td>
+      <td style="text-align:center;">Arrays, 2D Prefix Sum, Brute Force (Largest-first Search)</td>
+      <td style="text-align:center;"><a href="./Solutions/Largest_Magic_Square.cpp">View</a></td>
+      <td style="text-align:center;"><a href="./Solutions/Largest_Magic_Square.py">View</a></td>
+    </tr>
   </tbody>
 </table>
 
