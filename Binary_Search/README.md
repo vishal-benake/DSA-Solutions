@@ -42,6 +42,12 @@ with the core <b>pattern</b> used in each solution.
       <td style="text-align:center;"><a href="./Solutions/Separate_Squares_I.cpp">View</a></td>
       <td style="text-align:center;"><a href="./Solutions/Separate_Squares_I.py">View</a></td>
     </tr>
+    <tr>
+      <td style="text-align:left;">Maximum Side Length of a Square ≤ Threshold</td>
+      <td style="text-align:center;">Binary Search + 2D Prefix Sum</td>
+      <td style="text-align:center;"><a href="./Solutions/Maximum_Side_Length_Square.cpp">View</a></td>
+      <td style="text-align:center;"><a href="./Solutions/Maximum_Side_Length_Square.py">View</a></td>
+    </tr>
   </tbody>
 </table>
 
