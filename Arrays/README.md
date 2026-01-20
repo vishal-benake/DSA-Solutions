@@ -45,6 +45,12 @@ with the core <b>pattern</b> used in each solution.
       <td style="text-align:center;"><a href="./Solutions/Minimum_Time_Visiting_All_Points.cpp">View</a></td>
       <td style="text-align:center;"><a href="./Solutions/Minimum_Time_Visiting_All_Points.py">View</a></td>
     </tr>
+    <tr>
+      <td style="text-align:left;">Construct the Minimum Bitwise Array I</td>
+      <td style="text-align:center;">Bit Manipulation, Brute Force (Bounded)</td>
+      <td style="text-align:center;"><a href="./Solutions/Construct_Minimum_Bitwise_Array_I.cpp">View</a></td>
+      <td style="text-align:center;"><a href="./Solutions/Construct_Minimum_Bitwise_Array_I.py">View</a></td>
+    </tr>
   </tbody>
 </table>
 
