@@ -22,8 +22,7 @@ with the core <b>pattern</b> used in each solution.
         <td style="text-align:left;">Find the Largest Area of Square Inside Two Rectangles</td>
         <td style="text-align:center;">Geometry, Brute Force (Pairwise Rectangle Intersection)</td>
         <td style="text-align:center;"><a href="./Solutions/Largest_Square_Area_Inside_Two_Rectangles.cpp">View</a></td>
-        <td style="text-align:center;"><a href="./Solutions/Largest_Square_Area_Inside_Two_Rectangles.py">View</a>
-        </td>
+        <td style="text-align:center;"><a href="./Solutions/Largest_Square_Area_Inside_Two_Rectangles.py">View</a></td>
     </tr>
   </tbody>
 </table>
