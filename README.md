@@ -11,6 +11,7 @@
       <li><a href="./Binary_Search/README.md">Binary Search</a></li>
       <li><a href="./Sweep_Line/README.md">Sweep Line</a></li>
       <li><a href="./Geometry/README.md">Geometry</a></li>
+      <li><a href="./Bit_Manipulation/README.md">Bit Manipulation</a></li>
       <!-- <li><a href="./LinkedLists/README.md">Linked Lists</a></li>
       <li><a href="./Trees/README.md">Trees</a></li>
       <li><a href="./Graphs/README.md">Graphs</a></li> -->
