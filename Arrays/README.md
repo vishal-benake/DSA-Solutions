@@ -51,6 +51,12 @@ with the core <b>pattern</b> used in each solution.
       <td style="text-align:center;"><a href="./Solutions/Construct_Minimum_Bitwise_Array_I.cpp">View</a></td>
       <td style="text-align:center;"><a href="./Solutions/Construct_Minimum_Bitwise_Array_I.py">View</a></td>
     </tr>
+    <tr>
+      <td style="text-align:left;">Minimum Pair Removal to Sort Array I</td>
+      <td style="text-align:center;">Array Simulation / Forced Greedy</td>
+      <td style="text-align:center;"><a href="./Solutions/Minimum_Pair_Removal_to_Sort_Array_I.cpp">View</a></td>
+      <td style="text-align:center;"><a href="./Solutions/Minimum_Pair_Removal_to_Sort_Array_I.py">View</a></td>
+    </tr>
   </tbody>
 </table>
 
