@@ -26,8 +26,7 @@ with the core <b>pattern</b> used in each solution.
       <td style="text-align:left;">Minimum Pair Removal to Sort Array II</td>
       <td style="text-align:center;">Heap (Priority Queue), Forced Greedy, Simulation, Doubly Linked List</td>
       <td style="text-align:center;"><a href="./Solutions/Minimum_Pair_Removal_To_Sort_Array_II.cpp">View</a></td>
-      <td style="text-align:center;">
-        <a href="./Solutions/Minimum_Pair_Removal_To_Sort_Array_II.py">View</a></td>
+      <td style="text-align:center;"><a href="./Solutions/Minimum_Pair_Removal_To_Sort_Array_II.py">View</a></td>
     </tr>
   </tbody>
 </table>
