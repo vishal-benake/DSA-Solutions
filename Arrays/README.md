@@ -104,6 +104,8 @@ with the core <b>pattern</b> used in each solution.
     <tr>
       <td style="text-align:left;">Spiral Matrix II (Upcoming...)</td>
       <td style="text-align:center;">Matrix Construction / Simulation</td>
+      <td style="text-align:center;"><a href="#">(._.)</a></td>
+      <td style="text-align:center;"><a href="#">(._.)</a></td>
       <!--<td style="text-align:center;"><a href="./Solutions/Spiral_Matrix_II.cpp">View</a></td>
       <td style="text-align:center;"><a href="./Solutions/Spiral_Matrix_II.py">View</a></td>-->
     </tr>
