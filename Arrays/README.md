@@ -102,6 +102,12 @@ with the core <b>pattern</b> used in each solution.
      <td style="text-align:center;"><a href="./Solutions/Spiral_Matrix.py">View</a></td>
     </tr>
     <tr>
+      <td style="text-align:left;">Rotate Array (Right)</td>
+      <td style="text-align:center;">Array Manipulation / Right Rotation</td>
+      <td style="text-align:center;"><a href="./Solutions/Rotate_Array.cpp">View</a></td>
+      <td style="text-align:center;"><a href="./Solutions/Rotate_Array.py">View</a></td>
+    </tr>
+    <tr>
       <td style="text-align:left;">Spiral Matrix II (Upcoming...)</td>
       <td style="text-align:center;">Matrix Construction / Simulation</td>
       <td style="text-align:center;"><a href="#">(._.)</a></td>
